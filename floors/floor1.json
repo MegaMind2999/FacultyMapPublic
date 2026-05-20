@@ -1,0 +1,950 @@
+[
+  {
+    "id": "MA_1_1",
+    "name": "خدمة عامه قاعه (1)",
+    "type": "قاعة",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "MA_1_2",
+    "name": "خدمة عامه قاعة (2)",
+    "type": "قاعة",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+
+  {
+    "id": "BIO_1_0",
+    "name": "طرقة الاداريين",
+    "type": "طرقة",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "BIO_1_1",
+    "name": "حمام طلاب",
+    "type": "حمام",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "BIO_1_2",
+    "name": "حمام طالبات",
+    "type": "حمام",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "BIO_1_3",
+    "name": "ادارة المشتريات",
+    "type": "مكتب",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "BIO_1_4",
+    "name": " وكيل المالية",
+    "type": "مكتب",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "BIO_1_5",
+    "name": "ادارة المخازن",
+    "type": "مكتب",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "BIO_1_6",
+    "name": "وحدة الارشاد الاكاديمي",
+    "type": "مكتب",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "BIO_1_7",
+    "name": "وحدة شئون البيئة وخدمة المجتمع",
+    "type": "مكتب",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "BIO_1_8",
+    "name": "ادارة العلاقات الثقافية",
+    "type": "مكتب",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "BIO_1_9",
+    "name": "وحدة الارشيف",
+    "type": "مكتب",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "BIO_1_10",
+    "name": "الشئون العامة",
+    "type": "مكتب",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "BIO_1_11",
+    "name": "الخزينة",
+    "type": "مكتب",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "BIO_1_12",
+    "name": "اتحاد الطلاب",
+    "type": "مكتب",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "BIO_1_13",
+    "name": "ادارة رعاية الطلاب",
+    "type": "مكتب",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "BIO_1_14",
+    "name": "ادارة الدراسات العليا",
+    "type": "مكتب",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "BIO_1_15",
+    "name": "ادارة الحسابات",
+    "type": "مكتب",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "BIO_1_16",
+    "name": "ادارة الشئون الادارية",
+    "type": "مكتب",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "BIO_1_17",
+    "name": "ادارة شئون الطلاب",
+    "type": "مكتب",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "GEO_1_0",
+    "name": "طرقة مبنى جيو الدور الاول ",
+    "type": "طرقة",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "GEO_1_1",
+    "name": "حمام طلاب",
+    "type": "حمام",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "GEO_1_2",
+    "name": "حمام طالبات",
+    "type": "حمام",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "GEO_1_3",
+    "name": "مدير ادارة الشئون المالية|مدير عام المشتريات والمخازن",
+    "type": "مكتب",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "GEO_1_4",
+    "name": "التوريدات",
+    "type": "مكتب",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "GEO_1_5",
+    "name": "وحدة النشر والتوثيق الجامعي",
+    "type": "مكتب ",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "GEO_1_6",
+    "name": " عميد الامن",
+    "type": "مكتب",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "GEO_1_7",
+    "name": "المركز الجامعي للتطوير المهني (UCCD)",
+    "type": "مركز",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "GEO_1_8",
+    "name": "حجرة الامن",
+    "type": "مكتب",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "GEO_1_9",
+    "name": "مجمع الكنترولات",
+    "type": "مجمع",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+
+  {
+    "id": "CH_1_0",
+    "name": "طرقة مبنى كيمياء الدور الاول",
+    "type": "طرقة",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "CH_1_1",
+    "name": "الخزينة",
+    "type": "مكتب",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "CH_1_2",
+    "name": "وحدة الذكاء الاصطناعي والحاضنه التكنولوجية",
+    "type": "مكتب",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "CH_1_3",
+    "name": "معمل طلاب (5)",
+    "type": "معمل",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "CH_1_4",
+    "name": "معمل طلاب (4)",
+    "type": "معمل",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "CH_1_5",
+    "name": "معمل طلاب (3) | معمل طلاب (2)",
+    "type": "معمل",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "CH_1_6",
+    "name": "طرقة معامل كيمياء",
+    "type": "طرقة",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "CH_1_7",
+    "name": "معمل طلاب (1)",
+    "type": "معمل",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "CS_1_0",
+    "name": "طرقة معامل حاسب",
+    "type": "طرقة",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "CS_1_1",
+    "name": "معمل (3)",
+    "type": "معمل",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "CS_1_2",
+    "name": "معمل (2)",
+    "type": "معمل",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "CS_1_3",
+    "name": "معمل (1)",
+    "type": "معمل",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "CS_1_4",
+    "name": "حمام",
+    "type": "حمام",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "CS_1_5",
+    "name": "معمل (6)",
+    "type": "معمل",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "CS_1_6",
+    "name": "معمل (5)",
+    "type": "معمل",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "CS_1_7",
+    "name": "معمل (4)",
+    "type": "معمل",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "CS_1_8",
+    "name": "مدخل معامل الحاسب",
+    "type": "طرقة",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "B3_1_0",
+    "name": "طرقة",
+    "type": "طرقة",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "stairs_1_1",
+    "name": "سلم جيو الدور الاول",
+    "type": "سلم",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "stairs_1_2",
+    "name": "سلم بايو الدور الاول",
+    "type": "سلم",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "stairs_1_3",
+    "name": "سلم بايو كيميا الدور الاول",
+    "type": "سلم",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "stairs_1_4",
+    "name": "سلم جيو كيميا الدور الاول",
+    "type": "سلم",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "stairs_1_5",
+    "name": "سلم كيمياء الدور الاول",
+    "type": "سلم",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "x_stairs_1_1",
+    "name": "سلم كيمياء الدور الاول",
+    "type": "سلم",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "x_stairs_1_2",
+    "name": "سلم كيمياء الدور الاول",
+    "type": "سلم",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "elevator_1_1",
+    "name": "اسانسير جيو الدور الاول",
+    "type": "مصعد",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "elevator_1_2",
+    "name": "اسانسير بايو الدور الاول",
+    "type": "مصعد",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "elevator_1_3",
+    "name": "اسانسير بايو كيميا الدور الاول",
+    "type": "مصعد",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "elevator_1_4",
+    "name": "اسانسير جيو كيميا الدور الاول",
+    "type": "مصعد",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "nexus_1_1",
+    "name": "صاله مدخل الكليه",
+    "type": "صالة",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "nexus_1_2",
+    "name": "صالة",
+    "type": "صالة",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "nexus_1_3",
+    "name": "طرقة ",
+    "type": "طرقة",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "nexus_1_4",
+    "name": "مركز الخدمة العامة|معمل حاسب الي (1)",
+    "type": "معمل",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "nexus_1_5",
+    "name": "طرقة ",
+    "type": "طرقة",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "B1_1_0",
+    "name": "طرقة",
+    "type": "طرقة",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "B1_1_1",
+    "name": "وحدة التحاليل الدقيقة",
+    "type": "معمل",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "B1_1_2",
+    "name": "العيادة الطبية",
+    "type": "عيادة",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "B1_1_3",
+    "name": " وحدة تكنولوجيا المعلومات(IT Unit)",
+    "type": "مكتب",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "B1_1_4",
+    "name": "وحدة التدريب والتنمية البشرية",
+    "type": "مكتب",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "B1_1_5",
+    "name": "امين الكلية",
+    "type": "مكتب",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "B1_1_6",
+    "name": "وكيل الكلية لشئون خدمة المجتمع وتنمية البيئة",
+    "type": "مكتب",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "B1_1_7",
+    "name": "سكرتارية",
+    "type": "مكتب",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "B2",
+    "name": "مسجد طالبات",
+    "type": "مسجد",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "B3_1_0",
+    "name": "طرقة",
+    "type": "طرقة",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "B3_1_1",
+    "name": "وحدة المتابعة",
+    "type": "مكتب",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "B3_1_2",
+    "name": "حمام",
+    "type": "حمام",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "B3_1_3",
+    "name": "ادارة الشئون القانونية",
+    "type": "مكتب",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "B3_1_4",
+    "name": "وحدة ادارة الازمات والكوارث",
+    "type": "مكتب",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "B3_1_5",
+    "name": "ادارة النشاط العلمي (نادي العلوم)",
+    "type": "مكتب",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "B3_1_6",
+    "name": "مدير ادارة شئون التعليم أ/علاء سويلم",
+    "type": "مكتب",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "B4",
+    "name": "مسجد طلاب",
+    "type": "مسجد",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+
+  {
+    "id": "B5_1_1",
+    "name": "ورشة قطع الصخور",
+    "type": "ورشة",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "B5_1_2",
+    "name": "مخزن (1)",
+    "type": "مخزن",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "B5_1_3",
+    "name": "مخزن (2)",
+    "type": "مخزن",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "B5_1_4",
+    "name": "مخزن (3)",
+    "type": "مخزن",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "B5_1_5",
+    "name": "مخزن (4)",
+    "type": "مخزن",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "B5_1_6",
+    "name": "المطبعه",
+    "type": "مكتب",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "B5_1_7",
+    "name": "ورشة صيانة الاجهزة|مدير عام الصيانة",
+    "type": "ورشة",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "B5_1_8",
+    "name": "حمام",
+    "type": "حمام",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "Lnd_1_1",
+    "name": "طرقة الدور الاول ",
+    "type": "طرقة",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "Lnd_1_2",
+    "name": "طرقة الدور الاول ",
+    "type": "طرقة",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "hall1",
+    "name": "طرقة ",
+    "type": "طرقة",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "hall2",
+    "name": "طرقة ",
+    "type": "طرقة",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "hall3",
+    "name": "طرقة ",
+    "type": "طرقة",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "hall4",
+    "name": "طرقة ",
+    "type": "طرقة",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "hall5",
+    "name": "طرقة ",
+    "type": "طرقة",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "hall6",
+    "name": "طرقة ",
+    "type": "طرقة",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "hall7",
+    "name": "طرقة ",
+    "type": "طرقة",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "hall8",
+    "name": "طرقة ",
+    "type": "طرقة",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "hall9",
+    "name": "طرقة ",
+    "type": "طرقة",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "hall10",
+    "name": "طرقة ",
+    "type": "طرقة",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "hall11",
+    "name": "طرقة ",
+    "type": "طرقة",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "garden1",
+    "name": "حديقة ",
+    "type": "ديكور",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "garden2",
+    "name": "حديقة ",
+    "type": "ديكور",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  },
+  {
+    "id": "museum",
+    "name": "متحف أ.د/احمد شرف الدين للتراث البيئي",
+    "type": "متحف",
+    "style": {
+      "font-size": "14"
+    },
+    "images": []
+  }
+]
